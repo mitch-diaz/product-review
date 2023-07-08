@@ -1,5 +1,3 @@
-// https://www.amazon.com/VIVO-Adjustable-Converter-Tabletop-DESK-V000V/dp/B07H9DM38X/?_encoding=UTF8&pd_rd_w=xb5Tn&content-id=amzn1.sym.03bef33a-a357-4fe3-9505-7fd4d6236957&pf_rd_p=03bef33a-a357-4fe3-9505-7fd4d6236957&pf_rd_r=40161D4M7MJMAY8FNERG&pd_rd_wg=fWdLT&pd_rd_r=6223d0fd-137e-42d2-8b2a-e8c5b52407a0&ref_=pd_gw_ci_mcx_mr_hp_d&th=1
-
 const StandUpDesk = [
     {
         "id": 1,

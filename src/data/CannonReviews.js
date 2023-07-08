@@ -1,7 +1,7 @@
 const CannonReviews = [
     {
         "id": 1,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 4,
         "reviewer": "David G.",
         "confirmed-purchase": true,
@@ -9,7 +9,7 @@ const CannonReviews = [
     },
     {
         "id": 2,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 5,
         "reviewer": "Liz A.",
         "confirmed-purchase": true,
@@ -17,7 +17,7 @@ const CannonReviews = [
     },
     {
         "id": 3,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 5,
         "reviewer": "Roberto M.",
         "confirmed-purchase": false,
@@ -25,7 +25,7 @@ const CannonReviews = [
     },
     {
         "id": 4,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 4,
         "reviewer": "Sally B.",
         "confirmed-purchase": true,
@@ -33,7 +33,7 @@ const CannonReviews = [
     },
     {
         "id": 5,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 3,
         "reviewer": "Adam R.",
         "confirmed-purchase": false,
@@ -41,7 +41,7 @@ const CannonReviews = [
     },
     {
         "id": 6,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 5,
         "reviewer": "Simon D.",
         "confirmed-purchase": true,
@@ -49,7 +49,7 @@ const CannonReviews = [
     },
     {
         "id": 7,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 4,
         "reviewer": "Reba M.",
         "confirmed-purchase": true,
@@ -57,7 +57,7 @@ const CannonReviews = [
     },
     {
         "id": 8,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 5,
         "reviewer": "Simon D.",
         "confirmed-purchase": true,
@@ -65,7 +65,7 @@ const CannonReviews = [
     },
     {
         "id": 9,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 5,
         "reviewer": "Diane M.",
         "confirmed-purchase": true,
@@ -73,7 +73,7 @@ const CannonReviews = [
     },
     {
         "id": 10,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 4,
         "reviewer": "Karel C.",
         "confirmed-purchase": false,
@@ -81,7 +81,7 @@ const CannonReviews = [
     },
     {
         "id": 11,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 4,
         "reviewer": "Hellena H.",
         "confirmed-purchase": true,
@@ -89,7 +89,7 @@ const CannonReviews = [
     },
     {
         "id": 12,
-        "product": "Cannon EOS Rebel T8i DSLR",
+        "product": "Cannon EOS Rebel T8i DSLR (body only)",
         "rating": 5,
         "reviewer": "Balaji S.",
         "confirmed-purchase": true,
