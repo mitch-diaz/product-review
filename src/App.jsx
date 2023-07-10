@@ -1,11 +1,11 @@
-
+import Header from "./components/Header"
 
 function App() {
   
 
   return (
     <> 
-      <h1>Product Review UI Vite + React</h1>
+      <Header />
     </>
   )
 }

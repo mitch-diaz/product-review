@@ -1,6 +1,90 @@
 *, ::before, ::after {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
+
+body {
+  margin: 0;
+  background-color: #f9f8f2;
+}
+
+h1,h2,h3,h4,h5,h6 {font-family: 'League Spartan', sans-serif;}
+
+p {font-family: 'Montserrat', sans-serif;}
+
+header {
+  background-color: #042039;
+}
+
+/* General Layout Styles */
+
+.header-container {
+  margin: 0 auto;
+  max-width: 1200px;
+  /* height: fit-content; */
+  display: flex;
+}
+
+.header-text-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  padding: 30px;
+}
+
+
+
+/* Header Styles */
+
+.header-title {
+  color: #d1eff9;
+  font-size: 48px;
+  letter-spacing: 1px;
+  margin-top: 0;
+}
+
+.header-text {
+  color: #d1eff9;
+  font-size: 26px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin-top: 0;
+}
+
+.add-review-btn {
+  font-family: 'Montserrat', sans-serif;
+  color: #13292a;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 20px;
+  background-color: #fbc84f;
+  border: none;
+  border-radius: 30px;
+}
+
+.stars-wrap {
+  display: flex;
+  margin: 4px 0 30px;
+}
+
+.star {
+  font-size: 2.4rem;
+  margin: 0 4px;
+  color: #fbc84f;
+}
+
+.header-img {
+  width: 50%;
+  background-image: url('./assets/man-at-computer-600x400.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  opacity: .5;
+}
+
+img {
+  width: 100%;
+}
+
 
