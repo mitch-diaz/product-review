@@ -63,6 +63,10 @@ header {
   border-radius: 30px;
 }
 
+.add-review-btn:hover {
+  background-color: #fbde4f;
+}
+
 .stars-wrap {
   display: flex;
   margin: 4px 0 30px;
@@ -72,6 +76,10 @@ header {
   font-size: 2.4rem;
   margin: 0 4px;
   color: #fbc84f;
+}
+
+.star:hover {
+  color: #fbde4f;
 }
 
 .header-img {
@@ -86,5 +94,79 @@ header {
 img {
   width: 100%;
 }
+
+/* Select, Filter, Sort */
+.select-sort-container {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.select-title-wrap {
+  padding: 50px;
+}
+
+.h3-select-title {
+  text-align: center;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #13292a;
+}
+
+.form-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 1px dashed #aaaaaa;
+}
+
+.drop-downs-wrap {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.dropdown {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #545454;
+  text-align: center;
+}
+
+select {
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px 5px 10px;
+  border-radius: 5px;
+  width: 350px;
+}
+
+.btn-wrap {
+  margin: 0 auto;
+}
+
+.submitBtn {
+  margin: 20px 0 20px;
+  color: #f9f8f2;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  padding: 10px 15px 10px;
+  background-color: #13292a;
+  border: none;
+  border-radius: 5px;
+}
+
+.submitBtn:hover {
+  background-color: #1f4345;
+}
+
+/* Results Display */
+
 
 
