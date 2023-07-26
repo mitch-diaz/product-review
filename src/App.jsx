@@ -1,6 +1,6 @@
 import Header from "./components/Header";
 import SelectAndSortForm from "./components/SelectAndSortForm";
-import ProductItem from "./components/ProductItem";
+import ProductsList from "./components/ProductsList";
 
 function App() {
   
@@ -9,7 +9,7 @@ function App() {
     <> 
       <Header />
       <SelectAndSortForm />
-      <ProductItem />
+      <ProductsList />
     </>
   )
 }
